@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.pwn": "pawn",
+        "stdlib.h": "c"
+    }
+}
